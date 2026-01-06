@@ -19,11 +19,11 @@ function Footer() {
             />
           </Col>
           <Col xs={8}>
-            <h5>Tác giả: &copy; traltb</h5>
+            <h5>Tác giả: &copy; nhannt</h5>
             <small>All rights reserved.</small>
           </Col>
           <Col xs={2}>
-            <a href="mailto:traltb@fpt.edu.vn">traltb@fpt.edu.vn</a>
+            <a href="nhanntde18076@fpt.edu.vn">nhanntde18076@fpt.edu.vn</a>
           </Col>
         </Row>
       </Container>

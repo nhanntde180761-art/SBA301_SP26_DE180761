@@ -2,11 +2,9 @@ function Header() {
   return (
     <header>
       <h1>Xin chào</h1>
-      <nav>
-        <a href="#">Home</a> | 
-        <a href="#">Product</a> | 
-        <a href="#">About</a>
-      </nav>
+      <button style={{ backgroundColor: 'deepskyblue', color: 'white' }}>
+       Click Me
+      </button>
     </header>
   )
 }
